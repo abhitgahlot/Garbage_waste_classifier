@@ -16,7 +16,7 @@ import numpy as np
 
 # load and evaluate a saved model 
 # load model
-model = load_model('model.h5')
+model = load_model('model (1).h5')
 # summarize model.
 model.summary()
 
