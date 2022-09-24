@@ -2,5 +2,5 @@
 
 This is an Image classification model implementation using DJango, Python, Keras, and JS
 
-This is dataset used in the project:
+This is the link to the dataset used in the project:
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
